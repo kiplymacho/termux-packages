@@ -1,0 +1,5 @@
+emulate sh -c '. @TERMUX_PREFIX@/etc/profile'
+command_not_found_handler() {
+	@TERMUX_PREFIX@/libexec/termux/command-not-found $1
+}
+PS1='%# '
