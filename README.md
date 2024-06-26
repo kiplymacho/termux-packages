@@ -36,10 +36,11 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 
 [![Android](https://img.shields.io/badge/Android-14-yellow.svg?style=flat)](https://developer.android.com/about/versions/14?hl=id)
 
+# Note
+
 Proyek ini berisi skrip dan patch untuk membangun paket untuk aplikasi Termux Android.
 
-Cara cepat tentang manajemen paket Termux tersedia di [Manajemen Paket](https://github.com/termux/termux-packages/wiki/Manajemen-Paket) Ini juga memiliki info tentang cara memperbaiki repository is under maintenance or downkesalahan saat menjalankan apt atau pkg perintah.
-Android application.
+Cara cepat tentang manajemen paket Termux tersedia di [Manajemen Paket](https://github.com/termux/termux-packages/wiki/Manajemen-Paket) Ini juga memiliki info tentang cara memperbaiki repository under maintenance Atau Kesalahan Download saat menjalankan perintah apt dan pkg Aplikasi Android
 
 ## Berkontribusi
 Baca [CONTRIBUTING.md](/CONTRIBUTING.md) dan [Developer's Wiki](https://github.com/termux/termux-packages/wiki) untuk lebih jelasnya.
