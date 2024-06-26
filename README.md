@@ -43,7 +43,7 @@ Proyek ini berisi skrip dan patch untuk membangun paket untuk aplikasi Termux An
 Cara cepat tentang manajemen paket Termux tersedia di [Manajemen Paket](https://github.com/termux/termux-packages/wiki/Manajemen-Paket) Ini juga memiliki info tentang cara memperbaiki repository under maintenance Atau Kesalahan Download saat menjalankan perintah apt dan pkg Aplikasi Android
 
 ## Berkontribusi
-Baca [CONTRIBUTING.md](/CONTRIBUTING.md) dan [Developer's Wiki](https://github.com/termux/termux-packages/wiki) untuk lebih jelasnya.
+Baca [![CONTRIBUTING.md](/CONTRIBUTING.md) dan [Developer's Wiki](https://github.com/termux/termux-packages/wiki) untuk lebih jelasnya.
 
 </p>
 <div height='45' align="center">
