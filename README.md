@@ -13,7 +13,7 @@
 
 Proyek ini berisi skrip dan patch untuk membangun paket untuk aplikasi Termux Android.
 
-Cara cepat tentang manajemen paket Termux tersedia di Manajemen [Package Management](https://github.com/termux/termux-packages/wiki/Package-Management)Ini juga memiliki info tentang cara memperbaiki repository is under maintenance or downkesalahan saat menjalankan aptatau pkg perintah.
+Cara cepat tentang manajemen paket Termux tersedia di [Manajemen Paket](https://github.com/termux/termux-packages/wiki/Manajemen-Paket)Ini juga memiliki info tentang cara memperbaiki repository is under maintenance or downkesalahan saat menjalankan aptatau pkg perintah.
 Android application.
 
 ## Contributing
