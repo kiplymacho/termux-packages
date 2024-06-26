@@ -9,7 +9,7 @@
 
 [![Repository status](https://repology.org/badge/repository-big/termux.svg)](https://repology.org/repository/termux)
 
-<img src=".github/static/hosted-by-hetzner.png" alt="Hosted by Hetzner" width="128px"></img>
+<img src=".github/static/hosted-by-hetzner.png" alt="Hosted by kiplymacho" width="128px"></img>
 
 This project contains scripts and patches to build packages for the [Termux](https://github.com/termux/termux-app)
 Android application.
