@@ -11,10 +11,10 @@
 
 <img src=".github/static/hosted-by-hetzner.png" alt="Hosted by kiplymacho" width="128px"></img>
 
-This project contains scripts and patches to build packages for the [Termux](https://github.com/termux/termux-app)
-Android application.
+Proyek ini berisi skrip dan patch untuk membangun paket untuk aplikasi Termux Android.
 
-Quick how-to about Termux package management is available at [Package Management](https://github.com/termux/termux-packages/wiki/Package-Management). It also has info on how to fix **`repository is under maintenance or down`** errors when running `apt` or `pkg` commands.
+Cara cepat tentang manajemen paket Termux tersedia di Manajemen [Package Management](https://github.com/termux/termux-packages/wiki/Package-Management)Ini juga memiliki info tentang cara memperbaiki repository is under maintenance or downkesalahan saat menjalankan aptatau pkg perintah.
+Android application.
 
 ## Contributing
 
